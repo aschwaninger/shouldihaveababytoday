@@ -13,10 +13,21 @@ body {
   text-align: center;
 }
 
-header, footer {
+header {
+  font-size: 3vw;
   font-family: thinFont;
 }
 
-h2, h3 {
+footer {
+  font-size: 1em;
+  font-family: thinFont;
+}
+
+h2 {
+  font-size: 5em;
+  font-family: babyFont;
+}
+h2 {
+  font-size: 2em;
   font-family: babyFont;
 }
