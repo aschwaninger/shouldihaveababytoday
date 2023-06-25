@@ -3,8 +3,20 @@
   src: url('/styles/bowlby.ttf') format('truetype');
 }
 
+@font-face {
+  font-family: thinFont;
+  src: url('/styles/poiret.ttf') format('truetype');
+}
+
 body {
   background-color: honeydew;
   text-align: center;
+}
+
+header, footer {
+  font-family: thinFont;
+}
+
+h2, h3 {
   font-family: babyFont;
 }
