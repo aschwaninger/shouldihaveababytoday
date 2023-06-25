@@ -19,18 +19,22 @@ body {
 header {
   font-size: 3vw;
   font-family: thinFont;
+  color: cadetblue;
 }
 
 footer {
   font-size: 1em;
   font-family: thinFont;
+  color: cadetblue;
 }
 
 h2 {
   font-size: 5em;
   font-family: babyFont;
+  color: deeppink;
 }
 h3 {
   font-size: 2em;
   font-family: babyFont;
+  color: deeppink;
 }
