@@ -21,12 +21,12 @@ body {
   text-align: center;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: space-evenly;
   height: 100%;
 }
 
 h1 {
-  font-size: 3vw;
+  font-size: 5vw;
   font-family: 'thinFont';
   color: cadetblue;
   font-weight: normal;
