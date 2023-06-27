@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'babyFont';
-  src: url('../styles/bowlby-webfont.ttf') format('truetype');
+  src: url('/styles/bowlby-webfont.ttf') format('truetype');
 }
 
 @font-face {
