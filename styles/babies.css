@@ -34,20 +34,20 @@ h1 {
 }
 
 footer {
-  font-size: 1em;
+  font-size: 11pt;
   font-family: 'thinFont';
   color: cadetblue;
 }
 
 h2 {
-  font-size: 5em;
+  font-size: 10vw;
   font-family: 'babyFont';
   color: deeppink;
   font-weight: normal;
   margin: 0;
 }
 h3 {
-  font-size: 2em;
+  font-size: 5vw;
   font-family: 'babyFont';
   color: deeppink;
   -webkit-font-smoothing: antialiased;
