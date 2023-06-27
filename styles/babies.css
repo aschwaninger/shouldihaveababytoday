@@ -30,6 +30,7 @@ h1 {
   font-family: 'thinFont';
   color: cadetblue;
   font-weight: normal;
+  margin: 0;
 }
 
 footer {
@@ -43,6 +44,7 @@ h2 {
   font-family: 'babyFont';
   color: deeppink;
   font-weight: normal;
+  margin: 0;
 }
 h3 {
   font-size: 2em;
@@ -50,4 +52,5 @@ h3 {
   color: deeppink;
   -webkit-font-smoothing: antialiased;
   font-weight: normal;
+  margin: 0;
 }
