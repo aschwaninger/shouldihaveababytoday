@@ -2,6 +2,13 @@
   font-family: babyFont;
   src: url('/styles/bowlby.ttf') format('truetype');
 }
+@font-face {
+  font-family: bowlby;
+  src: url('/styles/bowlby-webfont.woff2') format('woff2'),
+       url('/styles/bowlby-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
 
 @font-face {
   font-family: thinFont;
