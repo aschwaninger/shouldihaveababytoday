@@ -1,5 +1,5 @@
 @font-face {
-  font-family: babyFont;
+  font-family: 'babyFont';
   /* src: url('/styles/bowlby.ttf') format('truetype'); */
   src: url('/styles/bowlby-webfont.eot');
   src: url('/styles/bowlby-webfont.eot?#iefix') format('embedded-opentype'),
@@ -11,7 +11,7 @@
 }
 
 @font-face {
-  font-family: thinFont;
+  font-family: 'thinFont';
   src: url('/styles/poiret.ttf') format('truetype');
 }
 
@@ -25,24 +25,24 @@ body {
 
 header {
   font-size: 3vw;
-  font-family: thinFont;
+  font-family: 'thinFont';
   color: cadetblue;
 }
 
 footer {
   font-size: 1em;
-  font-family: thinFont;
+  font-family: 'thinFont';
   color: cadetblue;
 }
 
 h2 {
   font-size: 5em;
-  font-family: babyFont;
+  font-family: 'babyFont';
   color: deeppink;
 }
 h3 {
   font-size: 2em;
-  font-family: babyFont;
+  font-family: 'babyFont';
   color: deeppink;
   -webkit-font-smoothing: antialiased;
 }
