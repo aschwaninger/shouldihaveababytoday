@@ -36,10 +36,12 @@ h2 {
   font-size: 5em;
   font-family: 'babyFont';
   color: deeppink;
+  font-weight: normal;
 }
 h3 {
   font-size: 2em;
   font-family: 'babyFont';
   color: deeppink;
   -webkit-font-smoothing: antialiased;
+  font-weight: normal;
 }
