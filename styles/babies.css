@@ -24,7 +24,7 @@ body {
   justify-content: space-evenly;
 }
 
-header {
+h1 {
   font-size: 3vw;
   font-family: 'thinFont';
   color: cadetblue;
