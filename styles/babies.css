@@ -3,9 +3,12 @@
   src: url('/styles/bowlby.ttf') format('truetype');
 }
 @font-face {
-  font-family: bowlby;
-  src: url('/styles/bowlby-webfont.woff2') format('woff2'),
-       url('/styles/bowlby-webfont.woff') format('woff');
+  font-family: 'bowlby_one_scregular';
+  src: url('bowlby-webfont.eot');
+  src: url('bowlby-webfont.eot?#iefix') format('embedded-opentype'),
+       url('bowlby-webfont.woff2') format('woff2'),
+       url('bowlby-webfont.woff') format('woff'),
+       url('bowlby-webfont.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -37,11 +40,11 @@ footer {
 
 h2 {
   font-size: 5em;
-  font-family: bowlby;
+  font-family: 'bowlby_one_scregular';
   color: deeppink;
 }
 h3 {
   font-size: 2em;
-  font-family: bowlby;
+  font-family: 'bowlby_one_scregular';
   color: deeppink;
 }
