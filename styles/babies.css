@@ -1,6 +1,13 @@
 @font-face {
   font-family: babyFont;
-  src: url('/styles/bowlby.ttf') format('truetype');
+  #src: url('/styles/bowlby.ttf') format('truetype');
+  src: url('/styles/bowlby-webfont.eot');
+  src: url('/styles/bowlby-webfont.eot?#iefix') format('embedded-opentype'),
+       url('/styles/bowlby-webfont.woff2') format('woff2'),
+       url('/styles/bowlby-webfont.woff') format('woff'),
+       url('/styles/bowlby-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
 }
 
 @font-face {
