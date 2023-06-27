@@ -6,8 +6,6 @@
        url('../styles/bowlby-webfont.woff2') format('woff2'),
        url('../styles/bowlby-webfont.woff') format('woff'),
        url('../styles/bowlby-webfont.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
 }
 
 @font-face {
