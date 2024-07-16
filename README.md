@@ -8,3 +8,4 @@ This joke site was overbuilt using the following:
 * MongoDB
 * AWS Lambda
 * AWS API Gateway
+* AWS Amplify
